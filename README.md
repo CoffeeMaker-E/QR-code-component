@@ -17,8 +17,8 @@ Essa foi a minha solução para o desafio do QR code component feito com html e 
 
 ### Links
 
-- Solution URL: [Forntend Mentor]()
-- Live Site URL: [Git Hub](https://github.com/CoffeeMaker-E/QR-code-component#readme)
+- Solution URL: [Forntend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-using-just-html-and-css-oEeNNg0I9b)
+- Live Site URL: [Git Hub](https://coffeemaker-e.github.io/QR-code-component/)
 
 ## My process
 
